@@ -37,5 +37,5 @@ This project is a dynamic **news aggregator** built using **Flask** that not onl
 
 ---
 
-## 📂 Project Structure
+
 
